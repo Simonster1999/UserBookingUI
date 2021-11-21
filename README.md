@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# UserBookingUI
-=======
+
 # Dentistimo
 
 ## Installation Guide
@@ -14,4 +12,4 @@ Note. In order to run this component, node.js must be installed.
 
 ## Purpouse 
 This component acts as the UI for the system, we are using React to create the GUI as well as mapbox to create the map.
->>>>>>> b8267f240d476af25ff8c8544d92dd43e55ef3c9
+
