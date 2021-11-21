@@ -1,0 +1,47 @@
+.background {
+  background-color: #404040;
+}
+.submission-map-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+.submit-form {
+  display: flex;
+  margin-right: 100px;
+  margin-top: 168px;
+  width: 300px;
+  margin-bottom: 100%;
+  font-family: monospace;
+}
+
+.calendar {
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  border-color: white;
+  margin-top: 3%;
+  margin-left: 12%;
+  margin-right: 64%;
+  margin-bottom: 50px;
+}
+
+#infoText {
+  color: white;
+  font-family: monospace;
+  font-size: 40px;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  background: #404040;
+}
+
+body {background-color: #292a35;}
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
